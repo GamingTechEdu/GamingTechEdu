@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Tecnologias e Ferramentas
+
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
