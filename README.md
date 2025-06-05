@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamingTechEdu&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=GamingTechEdu&show_icons=true&theme=default)
 
 ## 🚀 Tecnologias e Ferramentas
 
