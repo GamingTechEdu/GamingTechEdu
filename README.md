@@ -42,7 +42,7 @@ Gosto de **organização, arquitetura limpa e automação de processos**. Estou 
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=flat&logo=code&logoColor=white)
 
 ---
-
+<!--
 ## 🛠 Projetos em Destaque
 
 ### 🔧 Sistema de Manutenção de Equipamentos
@@ -72,7 +72,7 @@ Gosto de **organização, arquitetura limpa e automação de processos**. Estou 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamingTechEdu&layout=compact)
 
 ---
-
+-->
 ## 🎯 O que estou estudando agora
 
 - 📚 Microserviços com Go
