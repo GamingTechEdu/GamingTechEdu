@@ -65,14 +65,14 @@ Gosto de **organização, arquitetura limpa e automação de processos**. Estou 
 🔗 [Acessar projeto](https://github.com/seu-usuario/flutter-widgets-clean)
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 ![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamingTechEdu&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamingTechEdu&layout=compact)
 
 ---
--->
+
 ## 🎯 O que estou estudando agora
 
 - 📚 Microserviços com Go
