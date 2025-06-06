@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou o Eduardo
 
-Sou desenvolvedor com foco em **Flutter**, **Go** e **arquiteturas modernas** como microserviços. Tenho experiência na criação de sistemas web e mobile voltados para **controle de manutenção**, **logística**, **escaneamento de peças**, entre outros.  
+Sou desenvolvedor com foco em **Flutter**, **Go** e **arquiteturas modernas** como microserviços. Tenho experiência na criação de sistemas web e mobile aplicáveis a diversos segmentos, com foco em eficiência operacional, automação e experiência do usuário.  
 
 Gosto de **organização, arquitetura limpa e automação de processos**. Estou sempre estudando novas formas de entregar software de qualidade e com ótima experiência de uso.
 
